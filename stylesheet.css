@@ -1,3 +1,26 @@
+body {
+	background-color: #000000;
+	margin: 0px;
+}
+
+#circle {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	background-color: #383838;
+}
+
+.node {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background-color: #009966;
+}
+
 #ring {
 	background-color: #000000;
 }
